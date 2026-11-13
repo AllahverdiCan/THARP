@@ -7,7 +7,7 @@
 | **Package/Identity/Publisher** | `CN=80F86ABB-4ABB-4524-A032-0CE77FF05712` |
 | **Package/Properties/PublisherDisplayName** | `ALLAHVERDİ CAN` |
 | **Geliştirici & Yayıncı / Publisher** | ALLAHVERDİ CAN |
-| **İletişim E-Posta / Contact Email** | `oguzyanardag@gmail.com` |
+| **İletişim E-Posta / Contact Email** | `oguzyanardag55@gmail.com` |
 | **Yürürlük Tarihi / Effective Date** | 11 Kasım 2026 / November 11, 2026 |
 
 ---
